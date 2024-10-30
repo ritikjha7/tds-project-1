@@ -1,7 +1,7 @@
 import requests
 import csv
 
-GITHUB_TOKEN = "top_secret_token_do_not_touch"
+GITHUB_TOKEN = "tdsprojct1"
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 
 def get_users_in_basel():
